@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+
+# Notebook Checkpoints
+.ipynb_checkpoints/
+
+
+# 136 GB of Quasi-private Data Files
+Data/
