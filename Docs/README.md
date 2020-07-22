@@ -1,3 +1,4 @@
 # Documents
 
-[The thesis documentation on Overleaf](https://www.overleaf.com/read/ytfdhknpfybn)
+[The possibility of a paper on the Overleaf](https://www.overleaf.com/read/cmnmrnrjzpxc)
+[The thesis documentation as a Git page](https://www.overleaf.com/read/cmnmrnrjzpxc)
