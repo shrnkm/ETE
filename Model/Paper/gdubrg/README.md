@@ -1,5 +1,6 @@
-This doc (just like the codes in this folder) is copy-pasted from [here](https://github.com/gdubrg/Eye-Tracking-for-Everyone).
+This document, just like the codes in this folder, is copy-pasted from [here](https://github.com/gdubrg/Eye-Tracking-for-Everyone).
 
+---
 
 # Eye Tracking for Everyone
 Implementation in **Keras** and **Tensorflow** of the famous paper published in **CVPR 2016** by *Torralba et al*.
