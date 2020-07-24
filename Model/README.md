@@ -3,7 +3,11 @@
 [The original iTrakcer Git repo in Caffe](https://github.com/CSAILVision/GazeCapture)<br/>
 [Follow-up work on the same project](https://github.com/harini-kannan/EyeTrackerDemo)<br/>
 
+Paper's experiment replication is being done using the code in this repo:<br/>
 [A Keras/TensorFlow implementation](https://github.com/gdubrg/Eye-Tracking-for-Everyone)<br/>
+
+
+
 [Another Python implementation](https://github.com/SwapnilPande/GazeTracking)<br/>
 [An improvement](https://github.com/hugochan/Eye-Tracker)<br/>
 
