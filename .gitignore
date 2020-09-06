@@ -14,5 +14,5 @@ Data/Data_Mini_4Os/
 Data/Data_Mini_1O/
 
 # weights of trained networks
-Model/Paper/weights
-Model/Mine/weights
+# Model/Paper/weights
+# Model/Mine/weights
