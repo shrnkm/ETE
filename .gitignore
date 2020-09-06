@@ -12,3 +12,7 @@ Data/Data_MIT/
 # 10,000 files and their pickles
 Data/Data_Mini_4Os/
 Data/Data_Mini_1O/
+
+# weights of trained networks
+Model/Paper/weights
+Model/Mine/weights
